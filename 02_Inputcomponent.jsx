@@ -1,3 +1,5 @@
+/* Create a React component that takes user input and adds it to an array. */
+
 import React, { useState } from 'react';
 const InputComponent = () => {
   const [inputValue, setInputValue] = useState('');
